@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20acidify04👋&fontAlign=50&fontAlignY=40&color=gradient)
-### 🖥️ My Skills
-#
+## 🖥️ My Skills
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,7 +15,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acidify04)](https://github.com/acidify04/github-readme-stats)
 <div align="center">
 
