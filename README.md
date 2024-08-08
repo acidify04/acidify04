@@ -1,9 +1,18 @@
+
+
+
+<!--
+## 💬 To contact me
+-->
+
+<div align="center">
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20acidify04👋&fontAlign=50&fontAlignY=40&color=gradient)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peh4622)](https://solved.ac/peh4622)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acidify04&layout=compact)
-
+  
 ## 🖥️ My skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -28,14 +37,6 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<!--
-## 💬 To contact me
--->
-
-<div align="center">
-
-
 
 </div>
 
