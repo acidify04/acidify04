@@ -5,10 +5,9 @@
 ## 💬 To contact me
 -->
 
-<div align="center">
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20acidify04👋&fontAlign=50&fontAlignY=40&color=gradient)
+<div align="left">
   
+# Hi! I'm acidify04👋
 ## 🖥️ My skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,6 +31,7 @@
 
 
 <!--
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=50&fontAlignY=40&color=gradient)
 **acidify04/acidify04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peh4622)](https://solved.ac/peh4622)
